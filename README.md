@@ -1,13 +1,12 @@
 ## End To End ML Project
-### Create a Environment
+
+### created a environment
 ```
 conda create -p venv python==3.8
-```
-### Activate a Environment
-```
+
 conda activate venv/
 ```
-### Install all necessary libararies
+### Install all necessary libraries
 ```
 pip install -r requirements.txt
 ```
